@@ -1,9 +1,9 @@
 //
 //  main.cpp
 //  List Implementation
-//
+//  Poject #3
+//  Data Structures
 //  Created by Aaron on 2/2/16.
-//  Copyright © 2016 Aaron. All rights reserved.
 //
 #include <cctype>       // Provides toupper
 #include <iostream>     // Provides cout and cin
